@@ -1,8 +1,16 @@
 body{
-   text-align: center;
    background-color:rgb(117, 230, 218);
 }
 
+content{
+   text-align: center;
+}
+
+.picture{
+   width: 200px;
+   height: 200px;
+   border-radius: 100%;
+}
 h1{
    font-family: "Lucida Console", "Courier New", monospace;
    color:rgb(5, 68, 94);
